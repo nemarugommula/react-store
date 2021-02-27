@@ -1,0 +1,25 @@
+.details{
+    display:flex;
+    flex:1;
+    flex-direction: row;
+
+}
+
+.details-image{
+    width:40vw;
+    height:100vh;
+}
+
+.details-body{
+    padding:30px;
+}
+
+.details-image > h1{
+    font-size: xx-large;
+    font-size: teal;
+}
+
+.details-image > p{
+    font-size: small;
+    color: grey;
+}
